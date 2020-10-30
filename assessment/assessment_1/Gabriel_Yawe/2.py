@@ -1,0 +1,6 @@
+solution = float((512-282) / 47*(48+5))
+solution_int = int(solution)
+solution_string =str(solution)
+print (solution_int)
+print (solution)
+print (solution_string)
