@@ -1,0 +1,1 @@
+print(f"Gabriel be OG! ")
